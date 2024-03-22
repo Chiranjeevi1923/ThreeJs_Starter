@@ -1,2 +1,2 @@
-# ThreeJs_Starter_Boiler_Plate
+# ThreeJs_Starter
 Three js project boiler plate code setup
